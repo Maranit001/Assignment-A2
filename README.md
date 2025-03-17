@@ -2,12 +2,8 @@
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>College CoST</title>
-<link rel="UC" type="image/x-UC" href="103ITE/UC.jpg"
-</head>
+
+
 <body> style="background-color:lightgray;"> <!--សម្រាប់ពណ៌Background-->
 <h2 style="background-color: darkblue; color: white; border: 2px solid green; font-family: kh Moul; font-size: 200%; text-align:center;">មហាវិទ្យាល័យវិទ្យាសាស្រ្តនិបច្ចេកវិទ្យា</h2>
 <p style="color:darkblue; border:2px solid green;">
