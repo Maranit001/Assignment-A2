@@ -22,10 +22,8 @@ The College of Science and Technology (CoST) was established at the same time as
 <img src="103ITE/Lab1.jpg" width="300" height="200">
 <img src="103ITE/Lab2.jpg" width="300" height="200">
 <img src="103ITE/Lab3.jpg" width="300" height="200"><br>
- </body>
 
 <footer>
 <img src="103ITE/UC.jpg" width="50" height="50">
 COllege Science and technology Copyright@2025
 </footer>
-</html>
