@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>College CoST</title>
+
 <link rel="UC" type="image/x-UC" href="103ITE/UC.jpg"
 </head>
 <body> style="background-color:lightgray;"> <!--សម្រាប់ពណ៌Background-->
